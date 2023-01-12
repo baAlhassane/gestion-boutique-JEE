@@ -1,0 +1,1 @@
+cette application géres les prioduits d'une boutique et leurs stocjage avec Mysql.
